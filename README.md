@@ -33,6 +33,8 @@ A portfolio project combining financial education, data analytics, machine learn
 - IT Honours graduate
 - FNB App Academy
 - Udacity AI/ML Challenge
+- AWS AI Practitioner
+- AWS Cloud Practitioner 
 
 ### 🎯 Current Goals
 
