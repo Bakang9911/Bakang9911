@@ -14,7 +14,7 @@ My interests include backend development, database design, business intelligence
 - **Data & AI:** Pandas, NumPy, scikit-learn, data analytics
 - **Business Intelligence:** Power BI
 - **Frontend:** React, TypeScript
-- **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Docker, Kubernetes
+- **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Docker, Kubernetes, AWS
 
 *Skills and technologies are being developed and applied through coursework and portfolio projects.*
 
@@ -39,7 +39,7 @@ A portfolio project combining financial education, data analytics, machine learn
 - Build secure, well-documented backend applications.
 - Strengthen SQL, data analytics, and business intelligence skills.
 - Apply machine learning to practical problems.
-- Develop cloud and DevOps experience using Microsoft Azure.
+- Develop multi cloud and DevOps experience using Microsoft Azure and AWS.
 
 I'm always looking for opportunities to learn, build, collaborate, and grow as a technology professional.
 <!--
